@@ -2,3 +2,6 @@ first file
 local changes
 change in staging
 change in working
+
+changes to rebase
+
